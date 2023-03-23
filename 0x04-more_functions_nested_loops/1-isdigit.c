@@ -2,7 +2,7 @@
 /**
  * _isdigit - function name
  * @c: checks if a number
- * return: 1 if true 0 otherwise
+ * Return: 1 if true 0 otherwise
  */
 int _isdigit(int c)
 {
