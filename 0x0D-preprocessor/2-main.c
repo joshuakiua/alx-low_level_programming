@@ -2,7 +2,6 @@
 
 /**
  * main - program that prints the file name
-a
  *
  * Return: Always 0 (Success)
  */
