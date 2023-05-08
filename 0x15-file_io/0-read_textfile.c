@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * read_textfile- A function that reads a text file and prints it to the POSIX standard output.
+ * read_textfile- A function that reads a text file and prints it to STDOUT
  * @filename: the filename to be read
  * @letters: the letters and numbers in the filename
  * Return: the actual number of letters abd numbers
